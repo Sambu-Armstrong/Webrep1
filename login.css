@@ -60,6 +60,24 @@ body {
     transform: translateY(-0%);
     font-size: 20px;
 }
+.wrapper .rememberforgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
+.rememberforgot label  input {
+    accent-color: #fff;
+    margin-right: 3px;
+}
+.rememberforgot a {
+    color: #fff;
+    text-decoration: none;
+}
+.rememberforgot a:hover {
+    text-decoration: underline;
+}
+
 
 
 

@@ -1,0 +1,26 @@
+body {
+    
+    background-color: rgba(201, 76, 76, 0.3);
+    font-size: 15px;
+}
+
+
+h1{
+    border-bottom: 2px solid rgb(122, 7, 7) ;            
+}
+p.blue{
+    color: rgb(36, 15, 15);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.underline{
+    text-decoration: underline;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.diffco{
+    text-align: center;
+    font-weight: bolder;
+    color: red;
+    font-family: italic,Arial, Helvetica, sans-serif;
+}

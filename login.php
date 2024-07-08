@@ -1,4 +1,7 @@
-
+<?php
+    include_once("Templates/header.php");
+    include_once("Templates/nav.php");
+?>
 <body style=" background: url(Images/avenue.jpg) no-repeat;
               background-size: cover ;
               background-position: center;">

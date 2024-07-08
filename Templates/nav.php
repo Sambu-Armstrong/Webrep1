@@ -6,7 +6,7 @@
         <a href="#">Movies</a>
         <a href="#">About</a>
         <a href="contact.html">Contact</a>
-        <a href="login.html">Login</a>
+        <a href="login.php">Login</a>
 
     </nav>
 </header>

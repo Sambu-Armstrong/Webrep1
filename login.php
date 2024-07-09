@@ -2,6 +2,7 @@
     include_once("Templates/header.php");
     include_once("Templates/nav.php");
 ?>
+
 <body style=" background: url(Images/avenue.jpg) no-repeat;
               background-size: cover ;
               background-position: center;">
@@ -27,7 +28,7 @@
             <button type="submit" class="btn">Login</button>
 
             <div class="register-link">
-                <p> Don't have an account? <a href="Register.html">Register</a>
+                <p> Don't have an account? <a href="Register.php">Register</a>
 
                 </p>
             </div>

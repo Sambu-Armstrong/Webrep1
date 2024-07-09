@@ -1,25 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-</head>
-<body >
-    <header>
-        <h2 class="logo">Ent District</h2>
-        <nav class="navigation">
-            <a href="./">Home</a>
-            <a href="#">Books</a>
-            <a href="#">Movies</a>
-            <a href="#">About</a>
-            <a href="contact.html">Contact</a>
-            <a href="login.php">Login</a>
-
-        </nav>
-    </header>
+<?php
+    
+?>
+<body style="background: url('Images/avenue.jpg') no-repeat ;
+            background-size: cover ;
+            background-position: center;" >
+    
            
     <div class = "wrapcover">
         <form action = "">

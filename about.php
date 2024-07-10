@@ -1,25 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-    
-</head>
+<?php
+?>
 <body>
-    <header>
-        <h2 class="logo">Ent District</h2>
-        <nav class="navigation">
-            <a href="./">Home</a>
-            <a href="books.php">Books</a>
-            <a href="movies.php">Movies</a>
-            <a href="#">About</a>
-            <a href="contact.php">Contact</a>
-            <a href="login.php">Login</a>
     
-        </nav>
-    </header>
     <section class="about">
         <div class="main">
             <img src="Images/wellstheatre.jpg" >

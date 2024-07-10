@@ -1,10 +1,9 @@
 <?php
     include_once("Templates/header.php");
     include_once("Templates/nav.php");
+    include_once("Templates/background.php");
 ?>
-<body style="background: url('Images/avenue.jpg') no-repeat ;
-            background-size: cover ;
-            background-position: center;">
+<body >
             
     <div class="wrapper">
     <form action="">
@@ -20,10 +19,15 @@
             <input type = "email" placeholder = "Email " required>
             
         </div>
-        <div class="tarea">
+        <div style= "
+        .textarea{
+            width: 344px;
+            height: 103px;
+        }
+        ">
             <textarea name="Message" class="from-control" placeholder="Write here ..." required></textarea>
-        </div>
         
+        </div>
         <button type="submit" class="btn">Send</button>
         
     </form>

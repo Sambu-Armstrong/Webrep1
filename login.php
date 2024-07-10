@@ -1,11 +1,10 @@
 <?php
     include_once("Templates/header.php");
     include_once("Templates/nav.php");
+    include_once("Templates/background.php");
 ?>
 
-<body style=" background: url(Images/avenue.jpg) no-repeat;
-              background-size: cover ;
-              background-position: center;">
+<body >
 
 
     <div class = "wrapper">

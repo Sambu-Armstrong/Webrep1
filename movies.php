@@ -1,49 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weekly Recommendations</title>
-    <link rel="stylesheet" href="movies.css">
+<?php
+
+?>
+<body class="mov">
     
-    </style>
-</head>
-<body>
-    <h2 class="underline">Movie Recommendation</h2>
-    <p class="blue">
+
+    
+    <div class="image-row ">
+        <h1 class="sub"> Movie Recommendation</h1>
         <a href="https://www.imdb.com/title/tt0848228/" target="_blank">
             <img src="Images/avngers.jpeg" width="200" height="200" title="Avengers" alt="Avengers 2012">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt0816692/" target="_blank">
             <img src="Images/interstellar.jpeg" width="200" height="200" title="Interstellar" alt="Interstellar">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt7984766/" target="_blank">
             <img src="Images/the menu.jpeg" width="200" height="200" title="The Menu" alt="The Menu">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt9019142/" target="_blank">
             <img src="Images/The Kitchen.jpeg" width="200" height="200" title="The Kitchen" alt="The Kitchen 2023">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt1104001/" target="_blank">
             <img src="Images/Tron legacy.jpeg" width="200" height="200" title="Tron Legacy" alt="Tron Legacy 2010">
-        </a>&nbsp;&nbsp;&nbsp;
-    </p>
-    <h2 class="underline">TV Show Recommendation</h2>
-    <p>
+        </a>
+    </div>
+    
+    <div class="image-row ">
+        <h1 class="sub"> TV Show Recommendation</h1>
         <a href="https://www.imdb.com/title/tt5114356/" target="_blank">
             <img src="Images/Tv show/Legion.jpeg" width="200" height="200" title="Legion" alt="Legion">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt4158110/" target="_blank">
             <img src="Images/Tv show/mr robot.jpeg" width="200" height="200" title="Mr Robot" alt="Mr Robot">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.rottentomatoes.com/tv/snowfall" target="_blank">
             <img src="Images/Tv show/snowfall.jpeg" width="200" height="200" title="Snowfall" alt="Snowfall">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt11810938/" target="_blank">
             <img src="Images/Tv show/god of highschool.jpeg" width="200" height="200" title="God of High School" alt="God of High School">
-        </a>&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.imdb.com/title/tt5290382/" target="_blank">
             <img src="Images/Tv show/mindhunter.jpeg" width="200" height="200" title="MindHunter" alt="MindHunter">
-        </a>&nbsp;&nbsp;&nbsp;
-    </p>
+        </a>
+    </div>
+    
 </body>
 </html>

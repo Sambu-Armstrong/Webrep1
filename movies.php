@@ -1,5 +1,8 @@
 <?php
-
+    include_once("Templates/header.php");
+    include_once("Templates/nav.php");
+    include_once("Templates/background.php");
+    include_once("Templates/movbok.php");
 ?>
 <body class="mov">
     

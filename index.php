@@ -28,10 +28,10 @@
         </P>
         <div>
             <a href="about.php">
-                <button type="button">Learn more</button>
+                <button type="button">Learn More</button>
             </a>   
-            <a href = "login.php"> 
-                <button type = "button">Login</button>
+            <a href = "register.php"> 
+                <button type = "button">Sign Up</button>
             </a>
         </div>
     </div>

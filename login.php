@@ -11,12 +11,12 @@
         <form action = "">
         <h1> Login</h1>
         <div class = "input-box">
-                <input type = "text" placeholder = "Username " required>
+                <input type = "text" id ="username" placeholder = "Username " required>
                 <i class='bx bxs-user'></i>
             </div>
 
             <div class="input-box">
-                <input type="password" placeholder="Password" required>
+                <input type="password" id = "password"placeholder="Password" required>
                 <i class='bx bxs-lock-alt'></i>
             </div>
 
@@ -24,6 +24,7 @@
                 <label><input type="checkbox"> Remember me</label>
                 <a href="#">Forgot password</a>
             </div>
+            <button type="reset" class="btn">Reset</button>
             <button type="submit" class="btn">Login</button>
 
             <div class="register-link">
